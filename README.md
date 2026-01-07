@@ -1,6 +1,6 @@
 # netflix-clone
 
-## ✨ Features
+##  Features
 
 - Environment setup and project structure
 - Authentication screen UI
